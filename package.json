@@ -1,0 +1,20 @@
+{
+  "name": "ms-uk-police-forces",
+  "version": "1.0.0",
+  "description": "Exports a list of uk police forces for the modern slavery app into a usable format for hof select elements",
+  "main": "index.js",
+  "keywords": [
+    "hof",
+    "modern-slavery",
+    "uk",
+    "police",
+    "forces"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UKHomeOffice/ms-uk-police-forces.git"
+  },
+  "homepage": "https://github.com/UKHomeOffice/ms-uk-police-forces#readme"
+}
